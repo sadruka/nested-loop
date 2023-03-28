@@ -11,6 +11,14 @@ for(i=1; i<=10; i++){
     for(j=1; j<=10; j++,n=n+10){
         printf("%d ",n);
     }
+
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
     printf("\n");
 }
     return 0;
